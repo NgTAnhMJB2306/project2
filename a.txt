@@ -1,3 +1,7 @@
 Nội dung A
 
+<<<<<<< HEAD
 Sửa bởi Beta
+=======
+Sửa đổi bởi master
+>>>>>>> 847cd62 (D1)
